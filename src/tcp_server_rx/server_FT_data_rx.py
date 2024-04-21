@@ -28,7 +28,7 @@ import threading
 import csv
 
 ### Manually edit
-csv_file_path = "C:/Users/222BMG13/Desktop/test.csv"
+csv_file_path = "C:/Users/user/Desktop/test.csv"
 
 ######################################################
 ###################### SETTING #######################
